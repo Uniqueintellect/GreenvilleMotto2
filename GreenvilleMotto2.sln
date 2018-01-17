@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreenvilleMotto2", "GreenvilleMotto2\GreenvilleMotto2.csproj", "{362A5E66-BF54-4811-85AE-4FFCD5A4C8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{362A5E66-BF54-4811-85AE-4FFCD5A4C8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362A5E66-BF54-4811-85AE-4FFCD5A4C8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362A5E66-BF54-4811-85AE-4FFCD5A4C8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362A5E66-BF54-4811-85AE-4FFCD5A4C8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E380905C-8199-4680-BB2A-CE718AEAABAB}
+	EndGlobalSection
+EndGlobal
