@@ -1,4 +1,4 @@
-﻿using System;
+﻿using static System.Console;
 
 namespace GreenvilleMotto2
 {
@@ -6,7 +6,9 @@ namespace GreenvilleMotto2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("**********************************");
+            WriteLine("* The stars shine in Greenville. *");
+            WriteLine("**********************************");
         }
     }
 }
